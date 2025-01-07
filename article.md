@@ -5,9 +5,9 @@
 <img style="border: 1px solid rgb(199, 199, 199); max-width: 900px;"
       alt=""
       border="0"
-      data-original-height="516"
-      data-original-width="511"
-      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ_bc9vWDXvADAlIb60Xxwsd2twZ7e5yaWZHa9y9ApvN474mpedap8xEDEdBQhsUL8ZgqPQE1_VSTvwC7suc08hLEcINpmy4uOBa0Z8wJLFM3lLIbzjsj3NbLINqeZKuZrmgqS_ZB3gqlBSzL2KQSEJtcM-Lhhyphenhyphen0rlZAUtCrKVG-MDTwGLmzpbDOZalmzx/s1600/Screenshot%202025-01-07%20235723.png"
+      data-original-height="1492"
+      data-original-width="1920"
+      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTWNlPHVu4ETXwsgC9MRivDMsuo7CThHrtOMbB8whXV9P5YjfWGlWsuDEVBh_wmNfaNcfXEL1bwX5h7EAkZjkvDVNHsEhA1B2R5NGfslHKgC1hZoXWJ-Bys5Goj31QEnoAsD8d4wWx2NppKOB9GnZyuGSo1ZyprtXfyQaBP9rntBJQQyJhF1LASfMbyMmf/s1600/ezgif-5-1099f76995.png"
   />
 </p>
 
